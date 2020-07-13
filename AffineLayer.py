@@ -1,5 +1,5 @@
 import numpy as np
-class AffineLayer:
+class Affine:
     def __init__(self,W,b):
         self.x=None
         self.W=W
